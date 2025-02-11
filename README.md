@@ -1,3 +1,3 @@
 # my-first-project-js
 
-This is my sixth task by js
+This is my seventh task by js
