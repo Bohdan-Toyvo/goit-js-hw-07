@@ -20,5 +20,5 @@ function onFormSubmit(event) {
     password: password,
   };
   console.log(formData);
-  form.reset(); //чому тут Form, а не Event (бо з ним не працює), я так і не розібрався і навіть ллмки не дали конкретну відповідь???
+  form.reset(); 
 }
